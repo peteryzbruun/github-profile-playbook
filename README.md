@@ -1,45 +1,24 @@
-# github-profile-playbook
+# GitHub Profile Playbook
 
-Status: active code project / Git not initialized
-Owner: pyzb
-Review cadence: as needed
+An approachable, hands-on guide that helps new GitHub users build a personal profile README while learning the basics of profiles, repositories, commits, branches, and pull requests.
 
-## What This Is
+**Status:** Early planning  
+**Owner:** pyzb
 
-A beginner-friendly, hands-on guide to getting started with GitHub by setting up a personalized profile README. It introduces profiles, repositories, branches, commits, and pull requests, and includes a framework to help learners decide what they want their profile to say.
+## Audience
 
-## Why It Exists
+New GitHub users, students, and anyone making their first personal profile.
 
-New developers, new GitHub users, and students need a welcoming first step that teaches core GitHub ideas while helping them make a profile that feels like their own.
+## Intended outcome
 
-## Why Now
+A self-guided lesson that takes about an hour and leaves the learner with a personalized profile README and a practical understanding of the basic GitHub workflow.
 
-The idea and initial learning goals are ready to shape into a first lesson outline.
+## Current state
 
-## Desired Outcome
+- Git repository initialized and connected to GitHub.
+- Lesson outline and learner activities are not drafted yet.
+- No software dependencies or build step are required for the planned guide.
 
-A short, self-guided introductory experience that a beginner can complete in about an hour, ending with a personalized GitHub profile README and a basic understanding of the GitHub workflow.
+## Next step
 
-## Next Action
-
-Draft the lesson outline, including the learner's personalization choices and a realistic time estimate for each step.
-
-## Starting Notes
-
-- **Who it is for:** New developers, new GitHub users, and students.
-- **What learners will learn:** Profiles, repositories, branches, commits, and pull requests.
-- **What they will build:** A Markdown profile README.
-- **Prerequisites:** None.
-- **Estimated time:** About one hour; refine after outlining the activities.
-
-## Current State
-
-- Git initialized: no
-- Dependencies installed: no
-- Build verified: no
-
-## Safe Next Steps
-
-1. Refine the lesson outline and personalization framework.
-2. Decide how learners will practice repositories, branches, commits, and pull requests.
-3. Decide separately whether and when to initialize Git and publish the repository.
+Draft the lesson outline, including personalization choices, practice activities, and realistic time estimates.
